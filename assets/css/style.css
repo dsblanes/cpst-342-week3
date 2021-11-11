@@ -61,7 +61,7 @@ body {
 /* Desktop and up */
 @media (min-width: 1440px) {
   .stories {
-    grid-template-columns: 1fr 1fr 1fr 1f;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     max-width: calc(3 * 350px);
   }
 
